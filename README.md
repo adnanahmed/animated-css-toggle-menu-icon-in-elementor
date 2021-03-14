@@ -19,6 +19,8 @@ body.menu-active .menu-click .elementor-icon i{
 }
 </style>
 
+
+
 <script>
 	jQuery(document).ready(function($){
 	$('.menu-click').click(function(){
@@ -26,9 +28,6 @@ body.menu-active .menu-click .elementor-icon i{
 	});
 });
 </script>
-
-
-====================
 
 
 
